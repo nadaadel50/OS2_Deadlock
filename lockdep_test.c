@@ -64,5 +64,5 @@ module_init(deadlock_init);
 module_exit(deadlock_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("ChatGPT");
+MODULE_AUTHOR("Doaa");
 MODULE_DESCRIPTION("Kernel module to test deadlock detection");
